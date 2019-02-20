@@ -1,4 +1,4 @@
-#import real expressions
+#import regular expressions
 import re
 import time
 
